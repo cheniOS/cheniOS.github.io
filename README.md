@@ -1,6 +1,6 @@
 ## 陈洪松的个人简历
 
-You can use the [editor on GitHub](https://github.com/cheniOS/chenios.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+我的个人简历[editor on GitHub](https://github.com/cheniOS/chenios.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
